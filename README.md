@@ -1,6 +1,6 @@
 # User Management
 
-## Udpates
+## Updates
 
 
 ## You need:
